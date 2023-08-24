@@ -12,3 +12,12 @@ print(type(my_int))
 print(type(my_float))
 print(type(my_bool))
 print(type(my_none))
+
+1 + 2
+2 - 5
+2.0 * 3
+6 // 2
+6 // 4
+6 / 4
+7 % 2
+2 ** 3
