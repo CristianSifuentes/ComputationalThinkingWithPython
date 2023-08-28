@@ -1,5 +1,5 @@
 objetivo = int(input('Escoge un número: '))
-epsilon = 0.001
+epsilon = 0.1
 paso = epsilon**2
 respuesta = 0.0
 
